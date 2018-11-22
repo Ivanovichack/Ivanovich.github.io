@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
 Soy un estudiante! Apacionado a la tecnología!
 
-### More Information
+### Más Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Soy estudiante de Ingeniería en Computación. 
 
 ### Contact me
 
