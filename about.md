@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about Iván!
+Some information about Ivan!
 
 ### More Information
 
