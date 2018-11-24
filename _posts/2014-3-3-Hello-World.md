@@ -3,7 +3,7 @@ layout: post
 title: Welcome to My Personal Page!
 ---
 
-Soy estudiante de Ingeniería en Computación!
+My name is Iván Luis Jiménez student Computer Engineering!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
