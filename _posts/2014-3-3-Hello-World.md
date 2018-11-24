@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up Ivan!
+title: Welcome to My Personal Page!
 ---
 
-Welcome to my blog!
+Soy estudiante de Ingeniería en Computación!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
